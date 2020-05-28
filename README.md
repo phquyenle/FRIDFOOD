@@ -1,2 +1,17 @@
 # FRIDFOOD
-Objective Users will be able to search for recipes based on (a) ingredient(s) they have in hand, and will show them the steps once selected They will also be able to store what is currently in their fridge to easily find recipes and they can save recipes Each user can potentially log in and save the inventory of their fridge. Making a recipe will manipulate their inventory in the database and keep records of what is in their fridge
+# Objective:
+Users will be able to search for recipes based on (a) ingredient(s) they have in their refrigerator, the common ingredients  will be listed for users to click and find recipes based on their input.
+Users can add their own recipes to the website. 
+Users search info will be stored in My Recipes navigation tab
+
+# Technologies
+
+* HTML
+* CSS
+* Javascript
+* jQuery
+* Unirest node module
+* APIs – Spoontacular
+* Sequelize
+* Heroku
+* JawsDB
